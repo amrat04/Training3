@@ -84,6 +84,9 @@ public class Car {
 
         int test1=10;
         System.out.println("test"+CAR_BRAND);
+ 
+                System.out.println("test");
+
 
     }
 }
